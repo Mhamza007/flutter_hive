@@ -1,0 +1,1 @@
+const String CONTACT_BOX = 'contacts';
